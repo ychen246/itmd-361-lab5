@@ -21,6 +21,8 @@ h1 {
     text-align: center;
     color: #FFDB94;
     background-color:#C18100;
+    font-family: 'Lobster', cursive;
+    font-weight: lighter;
 }
 
 table{
@@ -36,15 +38,17 @@ th, td {
     color:#B26700;
     background-color: #FFD396;
     height: 30px;
+    font-family: 'Oswald', sans-serif;
 }
 
 .label {
     font-size:2em;
-    font-weight:bold;
     background-color:#8B7AC2;
     color: #260985; 
     text-align:left;
     padding: .25em;
+    font-family: 'Lobster', cursive;
+    font-weight: lighter;
 }
 
 .img {
@@ -62,6 +66,8 @@ th, td {
     padding-top: .5em;
     padding-bottom: .5em;
     font-size: 1.75em;
+    font-family: 'Lobster', cursive;
+    font-weight: lighter;
 }
 
 
